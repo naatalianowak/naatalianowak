@@ -1,4 +1,8 @@
 ## 🎬 Bones!! Sóc Natalia, benvinguts al meu Github.
-![Demo](https://i.pinimg.com/originals/fe/f6/43/fef643161b609227aacc4cf037969747.gif)
+![Demo](https://i.imgur.com/5dNv2qM.gif)
+## 🖥️ Comandes de terminal
+
+![Comandes](https://raw.githubusercontent.com/username/repo/main/terminal-fake.svg)
+
 
 
