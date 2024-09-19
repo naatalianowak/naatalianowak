@@ -7,11 +7,9 @@
 $ git clone https://github.com/username/repo.git
 $ cd repo
 $ composer install
-$ echo "Hola, sóc [EL TEU NOM]! 🚀"
-$ echo "I aquesta és la meva increïble aplicació!"
+$ echo "Hola, sóc Natalia! 🚀"
+$ echo "Benvinguts a tots al meu Github!!"
 $ php artisan serve
-
-# ⏳ Espera... està carregant la genialitat...
   </pre>
 </div>
 
